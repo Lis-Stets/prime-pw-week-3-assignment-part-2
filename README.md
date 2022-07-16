@@ -6,7 +6,7 @@ This week, we will continue to put more into your tool belt by tackling methods 
 
 * Loops `for`, `while`, `for of`
 * Arrays
-
+ 
 ## Assignment
 
 As always, start off by forking and cloning this repository from GitHub. Open the code up in Atom to get started. 
